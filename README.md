@@ -3,7 +3,7 @@
 ## I'm a Student, Web Developer, and Tinkerer!
 - 🔭 I’m currently working on [TrackAny1](https://trackany1.com) Its a live tracking application that supports multiple satellite tracking brands.
 - 🌱 I’m currently learning everything 🤣 
-- 🥅 2020 Goals: To learn full stack software development by solving real problems.
+- 🥅 2020 Goals: To tackle real problems and learn as much as I can in the process.
 - ⚡ Fun fact: I love to fly paragliders & paramotors
 
 ### Connect with me:
@@ -36,8 +36,6 @@
 ---
 
 <img align="left" alt="markfaulk350's Github Stats" src="https://github-readme-stats.vercel.app/api?username=markfaulk350&hide=contribs&show_icons=true&hide_border=true" />
-
-<br />
 
 <img align="left" alt="markfaulk350's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markfaulk350" />
 
