@@ -35,7 +35,6 @@
 
 ---
 
-<img align="left" alt="markfaulk350's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markfaulk350" />
 
 [website]: https://faulknermark.com
 [youtube]: https://www.youtube.com/channel/UC0W3gweRenm1U14b6KzaoAg/videos
