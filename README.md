@@ -1,7 +1,7 @@
 ### Hi there, I'm Mark 👋
 
 ## I'm a Student, Web Developer, and Tinkerer!
-- 🔭 I’m currently working on [TrackAny1](https://trackany1.com) Its a live tracking application that supports multiple satellite tracking brands.
+- 🔭 I’m currently working on [TrackAny1.com](https://trackany1.com) Its a live group tracking network that supports Garmin, DeLorme, & Spot satellite trackers. Built for pilots, sailors, off-roaders and world travelers. Essentially anyone who is off-grid and needs to stay connected with friends & family while having the option to trigger an SOS request.
 - 🌱 I’m currently learning everything 🤣 
 - 🥅 2020 Goals: To tackle real problems and learn as much as I can in the process.
 - ⚡ Fun fact: I love to fly paragliders & paramotors
