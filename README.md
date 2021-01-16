@@ -6,7 +6,7 @@
 * How to build API's, CLI's & Web Apps using Node.js & Typescript
 * How to create infrustructure on AWS & GCP, and auto-deploy code
 * How to design & create mobile friendly & responsive websites using CSS, SASS, Angular, Vue
-- 🥅 2020 Goals: To tackle real problems and learn as much as I can in the process.
+- 🥅 2021 Goals: To tackle real problems and learn as much as I can in the process.
 - ⚡ Fun fact: I love to fly paragliders & paramotors
 
 ### Connect with me:
